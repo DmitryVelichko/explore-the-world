@@ -16,7 +16,9 @@ section {
     padding: 100px;
 }
 
-header {
+.header {
     position: absolute;
     top: 0;
+    left: 0;
+    z-index: 100;
 }

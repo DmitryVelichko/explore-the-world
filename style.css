@@ -10,3 +10,8 @@
 body {
     background: #111;
 }
+
+section {
+    position: relative;
+    padding: 100px;
+}

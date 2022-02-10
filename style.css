@@ -55,6 +55,11 @@ section {
   z-index: 1;
 }
 
+.banner .content h2 {
+  color: #fff;
+  font-size: 5em;
+}
+
 .fitBg {
   position: absolute;
   top: 0;

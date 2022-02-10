@@ -48,7 +48,10 @@ section {
   align-items: center;
 }
 
-
+.banner .content {
+  position: relative;
+  max-width: 900px;
+}
 
 .fitBg {
   position: absolute;

@@ -51,6 +51,8 @@ section {
 .banner .content {
   position: relative;
   max-width: 900px;
+  text-align: center;
+  z-index: 1;
 }
 
 .fitBg {

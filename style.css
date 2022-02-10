@@ -38,3 +38,8 @@ section {
   max-width: 40px;
   cursor: pointer;
 }
+
+.banner {
+  position: relative;
+  width: 100%;
+}

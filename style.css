@@ -111,3 +111,8 @@ section {
   color: #fff;
   font-size: 1em;
 }
+
+.about .imgBx {
+  position: relative;
+  min-width: 50%;
+}

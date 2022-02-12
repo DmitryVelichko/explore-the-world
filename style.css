@@ -48,6 +48,11 @@ section {
   align-items: center;
 }
 
+.banner::before {
+  content: '';
+  position: absolute;
+}
+
 .banner .content {
   position: relative;
   max-width: 900px;

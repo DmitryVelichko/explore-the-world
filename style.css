@@ -115,4 +115,6 @@ section {
 .about .imgBx {
   position: relative;
   min-width: 50%;
+  width: 50%;
+  min-height: 500px;
 }

@@ -99,3 +99,8 @@ section {
   text-align: end;
   padding-right: 40px;
 }
+
+.titleText {
+  font-weight: 600;
+  color: #fff;
+}

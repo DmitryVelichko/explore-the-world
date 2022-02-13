@@ -139,7 +139,7 @@ section {
   align-items: center;
 }
 
-.banner::before {
+.banner2::before {
   content: '';
   position: absolute;
   bottom: 0;
@@ -150,7 +150,7 @@ section {
   background: linear-gradient(to top, #111, transparent);
 }
 
-.banner::after {
+.banner2::after {
   content: '';
   position: absolute;
   top: 0;

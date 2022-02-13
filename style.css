@@ -129,3 +129,8 @@ section {
   width: 50%;
   min-height: 500px;
 }
+
+.banner2 {
+  position: relative;
+  width: 100%;
+}

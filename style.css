@@ -138,3 +138,8 @@ section {
   justify-content: center;
   align-items: center;
 }
+
+.banner::before {
+  content: '';
+  position: absolute;
+}

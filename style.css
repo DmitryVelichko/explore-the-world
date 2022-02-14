@@ -164,3 +164,7 @@ section {
 .destination {
   text-align: center;
 }
+
+.destination .content {
+  text-align: center;
+}

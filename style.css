@@ -177,3 +177,10 @@ section {
   flex-wrap: wrap;
   margin-top: 40px;
 }
+
+.destination .destinationList .box {
+  position: relative;
+  min-width: 350px;
+  height: 480px;
+  background: #191919;
+}

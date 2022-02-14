@@ -168,3 +168,8 @@ section {
 .destination .content {
   text-align: center;
 }
+
+.destination .destinationList {
+  position: relative;
+  display: flex;
+}

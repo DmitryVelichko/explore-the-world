@@ -186,3 +186,8 @@ section {
   transition: 0.5s;
   margin: 10px;
 }
+
+.destination .destinationList:hover .box {
+  opacity: 0.2;
+} 
+

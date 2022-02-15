@@ -191,3 +191,6 @@ section {
   opacity: 0.2;
 } 
 
+.destination .destinationList:hover .box:hover {
+  opacity: 1;
+}

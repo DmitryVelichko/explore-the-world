@@ -194,3 +194,8 @@ section {
 .destination .destinationList:hover .box:hover {
   opacity: 1;
 }
+
+.destination .destinationList .box .imgBx {
+  position: relative;
+  width: 100%;
+}

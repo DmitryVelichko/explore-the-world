@@ -214,3 +214,7 @@ section {
   font-weight: 500;
   line-height: 1.2em;
 }
+
+.destination .destinationList .box .content h2 span {
+  font-size: 0.8em;
+}

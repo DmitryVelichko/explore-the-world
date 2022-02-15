@@ -183,4 +183,6 @@ section {
   min-width: 350px;
   height: 480px;
   background: #191919;
+  transition: 0.5s;
+  margin: 10px;
 }

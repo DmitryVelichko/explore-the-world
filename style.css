@@ -208,3 +208,7 @@ section {
   justify-content: center;
   align-items: center;
 }
+
+.destination .destinationList .box .content h2 {
+  color: #fff;
+}

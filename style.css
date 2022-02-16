@@ -237,4 +237,10 @@ section {
 
 .footer .sci li a {
   text-decoration: none;
+  margin: 0 20px;
+}
+
+.footer .sci li a img {
+  filter: invert(1);
+  max-width: 40px;
 }

@@ -244,3 +244,8 @@ section {
   filter: invert(1);
   max-width: 40px;
 }
+
+.copy {
+  color: #fff;
+  margin-top: 20px;
+}

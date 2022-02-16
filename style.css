@@ -130,7 +130,8 @@ section {
   min-height: 500px;
 }
 
-.banner2 {
+.banner2,
+.banner3 {
   position: relative;
   width: 100%;
   min-height: 100vh;

@@ -231,3 +231,6 @@ section {
   flex-direction: column;
 }
 
+.footer .sci li {
+  list-style: none;
+}

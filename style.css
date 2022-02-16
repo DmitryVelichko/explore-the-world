@@ -140,7 +140,8 @@ section {
   align-items: center;
 }
 
-.banner2::before {
+.banner2::before,
+.banner3::before {
   content: '';
   position: absolute;
   bottom: 0;
@@ -151,7 +152,8 @@ section {
   background: linear-gradient(to top, #111, transparent);
 }
 
-.banner2::after {
+.banner2::after,
+.banner3::after {
   content: '';
   position: absolute;
   top: 0;

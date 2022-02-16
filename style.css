@@ -234,3 +234,7 @@ section {
 .footer .sci li {
   list-style: none;
 }
+
+.footer .sci li a {
+  text-decoration: none;
+}

@@ -276,4 +276,10 @@ section {
   .about {
     flex-direction: column;
   }
+
+  .about .contentBx,
+  .about .imgBx {
+    min-width: 100%;
+    width: 100%;
+  }
 }

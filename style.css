@@ -110,6 +110,7 @@ section {
   width: 50%;
   text-align: end;
   padding-right: 40px;
+  color: #fff;
 }
 
 .titleText {
@@ -193,7 +194,7 @@ section {
 
 .destination .destinationList:hover .box {
   opacity: 0.2;
-} 
+}
 
 .destination .destinationList:hover .box:hover {
   opacity: 1;
@@ -232,6 +233,11 @@ section {
   flex-direction: column;
 }
 
+.footer .sci {
+  display: flex;
+  flex-direction: row;
+}
+
 .footer .sci li {
   list-style: none;
 }
@@ -260,7 +266,7 @@ section {
   text-decoration: none;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1024px) {
   section {
     padding: 40px;
   }
@@ -288,8 +294,24 @@ section {
   .about .imgBx {
     min-height: 250px;
   }
-  
+
   .btn {
     margin-bottom: 30px;
+  }
+
+  .destination .destinationList .box {
+    position: relative;
+    max-width: 350px;
+    min-width: initial;
+    width: 350px;
+    height: 400px;
+  }
+  .destination .destinationList .box .imgBx {
+    height: 320px;
+  }
+
+  .footer .sci li a img {
+    filter: invert(1);
+    max-width: 30px;
   }
 }

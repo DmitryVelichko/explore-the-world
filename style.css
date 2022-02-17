@@ -264,4 +264,10 @@ section {
   section {
     padding: 40px;
   }
+
+  .banner .content h2 {
+    font-size: 2.5em;
+  }
+
+  
 }

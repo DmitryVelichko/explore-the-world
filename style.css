@@ -288,4 +288,8 @@ section {
   .about .imgBx {
     min-height: 250px;
   }
+  
+  .btn {
+    margin-bottom: 30px;
+  }
 }

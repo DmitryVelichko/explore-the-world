@@ -269,5 +269,7 @@ section {
     font-size: 2.5em;
   }
 
-  
+  .banner .content p {
+    font-size: 1em;
+  }
 }

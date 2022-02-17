@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -252,4 +253,8 @@ section {
   font-weight: 300;
   color: #666;
   text-align: center;
+}
+
+.copy a {
+
 }

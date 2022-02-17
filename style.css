@@ -284,4 +284,8 @@ section {
     text-align: center;
     padding-right: 0;
   }
+
+  .about .imgBx {
+    min-height: 250px;
+  }
 }
